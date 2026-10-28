@@ -1,5 +1,7 @@
 # Hypixel 2020
 
+# This will not receive updates or fixes, and is deprecated for a proper version you can view at https://discord.gg/6n4JvYsbFH Developed by quite a few notable figures in the community such as Auth, Billionaire, Shadowocto, Trol
+
 A recreation of Hypixel **SkyWars** and **Bed Wars** as they were in summer 2020, all in one Spigot plugin.
 
 - **Lightweight.** About 140 MB on disk after building, and about 1.6 GB of RAM and 1.2 CPU cores with around 80 bots online, you are able to host it locally.
